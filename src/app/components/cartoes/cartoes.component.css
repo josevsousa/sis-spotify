@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    display: contents;
+}
+ul li {
+    float: left;
+    margin: 16px;
+    width: 30%;
+}
+
+mat-card{
+    min-height: 376px !important;
+    background: #f9ffff;
+}
+
+mat-card-header .mat-card-title {
+    font-size: 17px !important;
+}
+mat-card-subtitle {
+    font-size: 12px !important;
+}
+/* ul li mat-card{
+    width: 300px;
+} */
